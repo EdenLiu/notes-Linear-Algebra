@@ -15,5 +15,6 @@ Github加载.ipynb是速度较慢，建议在[Nbviewer](http://nbviewer.jupyter.
 - 第三课 [乘法和逆矩阵](chapter03.ipynb)
 - 第四课 [A的LU分解](chapter04.ipynb)
 - 第五课 [转置-置换-向量空间R](chapter05.ipynb)
+- 第六课 [列空间与零空间](chapter06.ipynb)
 
 笔记格式借鉴[子实](https://github.com/zlotus/)的[线性代数笔记](http://nbviewer.jupyter.org/github/zlotus/notes-linear-algebra/blob/master/ReadMe.ipynb?flush_cache=true).
